@@ -12,6 +12,11 @@
       "value": "",
       "required": true
     },
+    "DISPLAY_UNITS": {
+      "description": "REQUIRED:默认显示的单位，请输入mmol.",
+      "value": "",
+      "required": true
+    },
     "ENABLE": {
       "description": "Space delimited list of optional features to enable, such as 'careportal'.",
       "value": "",
